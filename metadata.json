@@ -1,0 +1,5 @@
+{
+  "name": "opencry.ai",
+  "description": "AI chatbot with reasoning, search, image/video generation, and voice assistant.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
